@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+
+- 🌱 I'm currently learning Holochain and Rust
 
 <!--
 **jost-s/jost-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
