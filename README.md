@@ -1,10 +1,9 @@
-### Current focus
+### Currently I'm
 
-I'm learning Rust while diving into the world of [Holochain](https://github.com/holochain).
+- learning **Rust** with its fantastic **[book](https://doc.rust-lang.org/book)**
+- diving into the amazing world of **[Holochain](https://github.com/holochain)** and contributing along the way
 
 <!--
-**jost-s/jost-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
