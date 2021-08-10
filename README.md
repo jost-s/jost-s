@@ -1,6 +1,6 @@
-### 
+### Current focus
 
-- 🌱 I'm currently learning Holochain and Rust
+I'm learning Rust while diving into the world of [Holochain](https://github.com/holochain).
 
 <!--
 **jost-s/jost-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
