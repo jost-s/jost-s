@@ -1,7 +1,8 @@
 ### Currently I'm
 
-- learning **Rust** with its fantastic **[book](https://doc.rust-lang.org/book)**
-- diving into the amazing world of **[Holochain](https://github.com/holochain)** and contributing along the way
+- 📖 learning **Rust** with the fantastic **[book](https://doc.rust-lang.org/book)**
+- 🌊 diving into the amazing world of **[Holochain](https://github.com/holochain)**
+- 🏭 contributing to the **[Holochain Gym](https://github.com/holochain-gym)**
 
 <!--
 Here are some ideas to get you started:
